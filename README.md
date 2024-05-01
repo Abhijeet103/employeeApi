@@ -40,6 +40,9 @@ Java , SpringBoot  , Mongo Db , Swagger UI , docker
    
 ## screen Shots
 ![Screenshot 2024-05-01 230135](https://github.com/Abhijeet103/employeeApi/assets/93581505/277b193d-27b5-4a87-9d98-bd040c5d08dd)
+![Screenshot 2024-05-01 230807](https://github.com/Abhijeet103/employeeApi/assets/93581505/47e30dc3-2fad-4854-9c60-e672c9e7cd69)
+![Screenshot 2024-05-01 230830](https://github.com/Abhijeet103/employeeApi/assets/93581505/8244168a-ad9c-4d11-a74a-c1038e022a39)
 
-
+![Screenshot 2024-05-01 230448](https://github.com/Abhijeet103/employeeApi/assets/93581505/2089f777-6a07-4430-ac1e-9adf1af9204e)
+![WhatsApp Image 2024-05-01 at 23 07 10_f74c1ff3](https://github.com/Abhijeet103/employeeApi/assets/93581505/6ca56ecd-6da3-4300-bafb-d8cca07dff70)
 
