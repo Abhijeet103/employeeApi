@@ -38,3 +38,8 @@ Java , SpringBoot  , Mongo Db , Swagger UI , docker
 3) run command  :  docker-compose up --build
 4) the application is running at port 8081
    
+## screen Shots
+![Screenshot 2024-05-01 230135](https://github.com/Abhijeet103/employeeApi/assets/93581505/277b193d-27b5-4a87-9d98-bd040c5d08dd)
+
+
+
