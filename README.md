@@ -4,6 +4,7 @@
 2) Post end point which save a data in database and sends email to 1st level manager
      example  :
     POST  localhost:8081/employee
+   
      payload  :    {
         "employeeName": "Nameer kumar",
         "phoneNumber": "1234567890",
@@ -11,7 +12,8 @@
         "reportsTo": "66313b594e3f845288bbb5b4",
         "profileImage": "https://images.app.goo.gl/L3sehUbiR9huEQKR6"
     }
-3) Put end point to update
+   
+4) Put end point to update
      payload :
           {
         "id": "66313b594e3f845288bbb5b4",
@@ -21,9 +23,9 @@
         "reportsTo": "66313b184e3f845288bbb5b3",
         "profileImage": "https://images.app.goo.gl/L3sehUbiR9huEQKR6"
     },
-4) Delete end point to delete any employee  localhost:8081/employee/{employeeid}
+5) Delete end point to delete any employee  localhost:8081/employee/{employeeid}
   
-5) end point to retrive nth level manager of a employee
+6) end point to retrive nth level manager of a employee
      localhost:8081/employee/{employeeId}/{n}
 
 ## tools used 
